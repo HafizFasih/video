@@ -32,7 +32,7 @@ const Plan = () => {
       <section className="flex items-center justify-center flex-col sm:w-3/5 w-full gap-5">
         <h1 className="sm:text-5xl text-4xl font-bold text-center">Choose Your Plan</h1>
         <p className="text-center sm:text-[16px] text-sm">
-          Whether you want to get organized, keep your personal&apos; life on track,
+          Whether you want to get organized, keep your personal life on track,
           or boost workplace productivity, Evernote has the right plan for you.
         </p>
       </section>
